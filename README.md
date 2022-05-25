@@ -3,4 +3,7 @@
 -  eu estou aprendendo pensamento computacional
 
 [P5JS](https://editor.p5js.org/fany.santos/sketches/-JVVGmVNQ)
+
+[SCRATH](https://scratch.mit.edu/users/fanysantoss/)
+
  
