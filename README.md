@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @santosfanny
+# 👋 Hi, I’m @santosfanny
 -  eu gosto de ler
 -  eu estou aprendendo pensamento computacional
 
