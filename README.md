@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @santosfanny
+# 👋 Hi, Eu sou a fany
 -  eu gosto de ler
 -  eu estou aqui para postar alguns trabalhos escolares do meu ensino médio
 
